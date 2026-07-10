@@ -1,8 +1,8 @@
 fun main() {
     var i=200
     var j:Int=100
-    var v:String="Saumya"
-    var k:Char='H'
+    var v:String="Prince"
+    var k:Char='P'
     var f:Float=15.4f
     var b:Boolean=false
     var d:Double=1.2
